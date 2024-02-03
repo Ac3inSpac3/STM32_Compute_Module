@@ -1,6 +1,6 @@
 # Custom STM32 Compute Module
 
-![Module Image](module_image.jpg)
+![Module Image](PCBFront.png)
 
 ## Introduction
 
@@ -22,10 +22,10 @@ In theory this board is capable of being the heart of many different projects as
 
 ### PCB
 
-![Module Front](moduleFront.jpg)
-
-![Module Back](moduleBack.jpg)
+![Module Front](PCBFront.png)
+![Module Back](PCBBack.png)
+![PCB](PCB.png)
 
 ### Schematic
 
-![STM32 Schematic](stm32Schematic.png)
+![STM32 Schematic](Schematic.png)
